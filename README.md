@@ -1,2 +1,2 @@
 # 2023
-Informatics Journey 
+Informatics Python Projects 
